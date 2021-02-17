@@ -57,7 +57,13 @@
 
 Latex
 
-Adobe Pr
+Adobe Pr或其他剪辑工具
+
+Github或其他协作
+
+网页开发
+
+UXandUI 工具 Figma
 
 
 
